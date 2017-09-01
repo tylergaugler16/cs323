@@ -1,0 +1,54 @@
+xiao
+teng
+edward
+kun
+kar
+joe
+changjie
+anthony
+lawrence
+stefan
+philip
+ryan
+angelo
+maaz
+ahmar
+oliver
+zuoping
+yishi
+casablanca
+yat
+adolfas
+manuel
+stacy
+huan
+jiaxin
+sebastain
+rafael
+zxc
+aabb
+a
+bbaa
+ccaabb
+
+
+Table[0][97]:       bbaa,          a, casablanca, dummy, 
+Table[0][98]:     ccaabb,       aabb, dummy, 
+Table[0][99]:        zxc, dummy, 
+Table[0][100]:     edward, dummy, 
+Table[0][101]:   lawrence,   changjie,        joe, dummy, 
+Table[0][103]:    zuoping,       teng, dummy, 
+Table[0][105]:      yishi, dummy, 
+Table[0][108]:     rafael,     manuel, dummy, 
+Table[0][110]:  sebastain,     jiaxin,       huan,       ryan,     stefan,        kun, dummy, 
+Table[0][111]:     angelo,       xiao, dummy, 
+Table[0][112]:     philip, dummy, 
+Table[0][114]:     oliver,      ahmar,        kar, dummy, 
+Table[0][115]:    adolfas, dummy, 
+Table[0][116]:        yat, dummy, 
+Table[0][121]:      stacy,    anthony, dummy, 
+Table[0][122]:       maaz, dummy, 
+
+
+Table[1][32]:  sebastain,   lawrence,   changjie,    zuoping,    anthony,    adolfas,     stefan,     rafael,     philip,     oliver,     manuel,     jiaxin,     edward,     ccaabb,     angelo,      yishi,      stacy,      ahmar,       xiao,       teng,       ryan,       maaz,       huan,       bbaa,       aabb,        zxc,        yat,        kun,        kar,        joe,          a, 
+Table[1][99]: casablanca, 

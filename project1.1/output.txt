@@ -1,0 +1,57 @@
+Insert data(you)
+(dummy,you)->(you, null)
+
+Insert data(I)
+(dummy,I)->(I,you)->(you, null)
+
+Insert data(he)
+(dummy,I)->(I,he)->(he,you)->(you, null)
+
+Insert data(she)
+(dummy,I)->(I,he)->(he,she)->(she,you)->(you, null)
+
+Insert data(are)
+(dummy,I)->(I,are)->(are,he)->(he,she)->(she,you)->(you, null)
+
+Insert data(is)
+(dummy,I)->(I,are)->(are,he)->(he,is)->(is,she)->(she,you)->(you, null)
+
+Insert data(was)
+(dummy,I)->(I,are)->(are,he)->(he,is)->(is,she)->(she,was)->(was,you)->(you, null)
+
+Insert data(am)
+(dummy,I)->(I,am)->(am,are)->(are,he)->(he,is)->(is,she)->(she,was)->(was,you)->(you, null)
+
+Insert data(were)
+(dummy,I)->(I,am)->(am,are)->(are,he)->(he,is)->(is,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(of)
+(dummy,I)->(I,am)->(am,are)->(are,he)->(he,is)->(is,of)->(of,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(and)
+(dummy,I)->(I,am)->(am,and)->(and,are)->(are,he)->(he,is)->(is,of)->(of,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(if)
+(dummy,I)->(I,am)->(am,and)->(and,are)->(are,he)->(he,if)->(if,is)->(is,of)->(of,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(or)
+(dummy,I)->(I,am)->(am,and)->(and,are)->(are,he)->(he,if)->(if,is)->(is,of)->(of,or)->(or,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(him)
+(dummy,I)->(I,am)->(am,and)->(and,are)->(are,he)->(he,him)->(him,if)->(if,is)->(is,of)->(of,or)->(or,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(a)
+(dummy,I)->(I,a)->(a,am)->(am,and)->(and,are)->(are,he)->(he,him)->(him,if)->(if,is)->(is,of)->(of,or)->(or,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(an)
+(dummy,I)->(I,a)->(a,am)->(am,an)->(an,and)->(and,are)->(are,he)->(he,him)->(him,if)->(if,is)->(is,of)->(of,or)->(or,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(one)
+(dummy,I)->(I,a)->(a,am)->(am,an)->(an,and)->(and,are)->(are,he)->(he,him)->(him,if)->(if,is)->(is,of)->(of,one)->(one,or)->(or,she)->(she,was)->(was,were)->(were,you)->(you, null)
+
+Insert data(yes)
+(dummy,I)->(I,a)->(a,am)->(am,an)->(an,and)->(and,are)->(are,he)->(he,him)->(him,if)->(if,is)->(is,of)->(of,one)->(one,or)->(or,she)->(she,was)->(was,were)->(were,yes)->(yes,you)->(you, null)
+
+Insert data(no)
+(dummy,I)->(I,a)->(a,am)->(am,an)->(an,and)->(and,are)->(are,he)->(he,him)->(him,if)->(if,is)->(is,no)->(no,of)->(of,one)->(one,or)->(or,she)->(she,was)->(was,were)->(were,yes)->(yes,you)->(you, null)
+
